@@ -1,0 +1,12 @@
+.rood{
+	display: inline-block;
+	width: 100px;
+	height: 100px;
+	background: red;
+}
+.blauw{
+	position: relative;
+	top: -100px;
+	left: 100px;
+	background: blue;
+}
